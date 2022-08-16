@@ -1,9 +1,6 @@
-nome: SEU-NOME
-email: SEU-EMAIL
-matricula: SUA-MATRICULA-FGV
+nome: Bernardo Vargas da Motta Alves  
+email: bernardovma@gmail.com
+matricula: 211708305
 intro: >-
 
-  neste espaço vc poderá escrever sobre você. Use um editor de texto
-  que entenda YAML https://yaml.org como o Emacs
-  (https://github.com/yoshiki/yaml-mode) e/ou o VS Code
-  (https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml).
+  Meu nome é Bernardo Vargas, tenho 22 anos e sou aluno de dupla graduação de Direito e Ciência de Dados.
